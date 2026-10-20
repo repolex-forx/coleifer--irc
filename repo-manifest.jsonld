@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/irc/commit/bbc47e2bf4d899cca5a06bea5534f28775b940a4",
       "git:hexsha": "bbc47e2bf4d899cca5a06bea5534f28775b940a4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/irc/commit/acd8961e17e0766cdd75736e2ca9735a3ce68639",
