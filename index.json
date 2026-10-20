@@ -1,0 +1,11 @@
+{
+  "org": "coleifer",
+  "repo": "irc",
+  "versions": [
+    {
+      "commit": "bbc47e2bf4d899cca5a06bea5534f28775b940a4",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:17:55.520255+00:00"
+    }
+  ]
+}
